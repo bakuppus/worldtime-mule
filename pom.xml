@@ -36,6 +36,9 @@
 				<workerType>Micro</workerType>
 				<applicationName>aeg-test-mule</applicationName>
 				<muleVersion>4.2.2</muleVersion>
+                <properties>
+                <http.port>8089</http.port>
+                </properties>				
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
