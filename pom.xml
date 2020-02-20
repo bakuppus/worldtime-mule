@@ -27,9 +27,9 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>bakuppus</username>
+				<username>bakuppus1</username>
 				<password>Bala123%%%</password>
-				<environment>aeg-sandbox</environment>
+				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
